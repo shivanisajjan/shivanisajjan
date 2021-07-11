@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Shivani Sajjan
-- <i>Currently:</i> Full Stack Software Developer at CGI.
+- <i>Currently:</i> Full Stack Software Developer at CGI Inc.
 
 
 <h2>👀 Stats</h2>
