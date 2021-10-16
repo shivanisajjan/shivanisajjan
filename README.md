@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Shivani Sajjan
-- <i>Currently:</i> Full Stack Software Developer at CGI Inc.
+- <i>Currently:</i> Masters in Computer Science Student at Arizona State University.
+- <i>Previously:</i> Full Stack Software Developer at CGI Inc.
 
 
 <h2>👀 Stats</h2>
